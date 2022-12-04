@@ -29,8 +29,8 @@ template <typename T> struct Matrix {
 		Matrix res = identity(n);
 		Matrix a = *this;
 		while(_n > 0) {
-			if (_n & 1) res = res * a;
-			a = a * a;
+			if (_n & 1) res *= a;
+			a *= a;
 			_n /= 2;
 		}
 		return res;
