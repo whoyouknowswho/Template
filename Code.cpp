@@ -1,7 +1,7 @@
 /*-------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                                                                                                  |
 |  Author: Who you knows Who                                                                                                                       |
-|  My Profile: https://whoyouknowswho.carrd.co/                                                                                                    |
+|  //My Profile: https://whoyouknowswho.carrd.co/                                                                                                    |
 |                                                                                                                                                  |
 |               _                                                _                                                                 _               |
 |              | |    	                                        | |                                                               | |              |
